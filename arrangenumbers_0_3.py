@@ -30,7 +30,7 @@ def main():
         swapPositions(numbers, first, second)
         print(numbers)
 
-    print("The numbers are in the correct order")
+    print("The numbers are in the correct order!")
 
 
 def swapPositions(numbers, pos1, pos2):
